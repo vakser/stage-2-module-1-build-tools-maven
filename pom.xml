@@ -29,7 +29,8 @@
     <build>
         <plugins>
             <plugin>
-                <!-- something should be here-->
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
     </build>
